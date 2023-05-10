@@ -25,7 +25,7 @@ public class Game {
 
     private String genre;
 
-    private String platforms;
+    private String platform;
 
     private Double score;
 
